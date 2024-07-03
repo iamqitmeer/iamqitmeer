@@ -1,4 +1,4 @@
-# Qitmeer
+# Hi, I'm Qitmeer!
 
 ### Front-end Web Developer | Tailwind CSS, JavaScript, React.js, and Next.js | Looking for Internship
 
@@ -15,59 +15,54 @@ I am actively looking for an internship where I can work with experienced profes
 ---
 
 ## Education
-
-**Saylani Mass IT Training (SMIT)**
-- Full Stack Web & Mobile App Development
-- Ongoing
-
----
+- **Saylani Mass IT Training (SMIT)**
+  - Full Stack Web and Mobile App Development
 
 ## Skills
-
-- **Front-end Development:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js
-- **Back-end Development:** Basic knowledge of Node.js and Express.js
-- **Databases:** Basic knowledge of MongoDB
-- **Tools:** Git, GitHub, VS Code
-
----
+- **Front-end Development:**
+  - HTML, CSS, JavaScript
+  - Tailwind CSS
+  - React.js, Next.js
+- **Back-end Development:**
+  - Learning MongoDB, Express.js, Node.js (MERN stack)
+- **Tools:**
+  - Git, GitHub
+  - Visual Studio Code
 
 ## Projects
+### JavaScript Projects
+- **Digital Clock**
+  - [Live Demo](https://lnkd.in/dDj44iXF)
+  - [GitHub Code](https://lnkd.in/dTUTUvMV)
 
-### Digital Clock
-- **Description:** A digital clock displaying the date, month, year, current time, and day.
-- **Live Demo:** [JavaScript Digital Clock](https://javascript-digital-clock-smit.netlify.app/)
-- **Code:** [GitHub Repository](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Digital%20Clock)
+- **Stopwatch**
+  - [Live Demo](https://lnkd.in/dDEZiND3)
+  - [GitHub Code](https://lnkd.in/dHttx2TT)
 
-### Word Counter App
-- **Description:** An app that counts the number of words in a given text.
-- **Technologies:** JavaScript
-- **Status:** In development
+- **Counter App**
+  - [Live Demo](https://lnkd.in/dKzUQHR6)
+  - [GitHub Code](https://lnkd.in/dW2hacZz)
 
----
+- **Word Counter**
+  - [Live Demo](https://javascript-word-counter.netlify.app/)
+  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Word%20Counter)
 
-## Experience
+- **Notes App**
+  - [Live Demo](https://notes-app-javascipt.netlify.app/)
+  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Notes%20App%20With%20Authentication)
 
-**Personal Projects**
-- Developed a digital clock using JavaScript.
-- Currently working on a Word Counter app.
-- Gained hands-on experience in front-end development.
+- **Calculator**
+  - [Live Demo](https://calculator-by-qitmeer.netlify.app/)
 
----
-
-## Interests
-
-- Learning new web and mobile development technologies.
-- Exploring back-end development with Node.js and Express.js.
-- Enhancing skills in the MERN stack.
-
----
+## Future Plans
+I'm eager to get real-world experience to improve my skills. I want to:
+- Learn more about back-end development
+- Develop mobile apps
+- Become skilled in the MERN stack (MongoDB, Express.js, React.js, and Node.js)
 
 ## Contact
-
-- **LinkedIn:** [iamqitmeer](https://www.linkedin.com/in/iamqitmeer/)
 - **GitHub:** [iamqitmeer](https://github.com/iamqitmeer)
-- **LeetCode:** [iamqitmeer](https://leetcode.com/iamqitmeer)
+- **LinkedIn:** [iamqitmeer](https://www.linkedin.com/in/iamqitmeer/)
+- **LeetCode:** [iamqitmeer](https://leetcode.com/iamqitmeer/)
 
----
-
-Feel free to connect with me to discuss potential opportunities or collaborations.
+I'm looking for an internship to work with experienced professionals, learn new things, and apply what I've learned. If you're looking for a motivated and eager-to-learn developer, let's connect!
