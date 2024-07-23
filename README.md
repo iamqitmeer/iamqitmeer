@@ -31,6 +31,10 @@ I am actively looking for an internship where I can work with experienced profes
 
 ## Projects
 ### JavaScript Projects
+- **GitHub User Search App**
+  - [Live Demo](https://github-user-search-tau.vercel.app/))
+  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Github%20User%20Search%20App)
+
 - **Digital Clock**
   - [Live Demo](https://lnkd.in/dDj44iXF)
   - [GitHub Code](https://lnkd.in/dTUTUvMV)
