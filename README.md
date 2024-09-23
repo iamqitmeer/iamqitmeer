@@ -29,35 +29,6 @@ I am actively looking for an internship where I can work with experienced profes
   - Git, GitHub
   - Visual Studio Code
 
-## Projects
-### JavaScript Projects
-- **GitHub User Search App**
-  - [Live Demo](https://github-user-search-tau.vercel.app/))
-  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Github%20User%20Search%20App)
-
-- **Digital Clock**
-  - [Live Demo](https://lnkd.in/dDj44iXF)
-  - [GitHub Code](https://lnkd.in/dTUTUvMV)
-
-- **Stopwatch**
-  - [Live Demo](https://lnkd.in/dDEZiND3)
-  - [GitHub Code](https://lnkd.in/dHttx2TT)
-
-- **Counter App**
-  - [Live Demo](https://lnkd.in/dKzUQHR6)
-  - [GitHub Code](https://lnkd.in/dW2hacZz)
-
-- **Word Counter**
-  - [Live Demo](https://javascript-word-counter.netlify.app/)
-  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Word%20Counter)
-
-- **Notes App**
-  - [Live Demo](https://notes-app-javascipt.netlify.app/)
-  - [GitHub Code](https://github.com/iamqitmeer/Zero-To-Hero-In-JS/tree/main/Mini%20Projects/Notes%20App%20With%20Authentication)
-
-- **Calculator**
-  - [Live Demo](https://calculator-by-qitmeer.netlify.app/)
-
 ## Future Plans
 I'm eager to get real-world experience to improve my skills. I want to:
 - Learn more about back-end development
