@@ -10,6 +10,18 @@
 
 ---
 
+### Building
+
+<a href="https://www.augerelabs.com/">
+    <img alt="Augere Labs" src="https://img.shields.io/badge/Building-Augere%20Labs-black?style=flat-square">
+</a>
+
+<p>
+  Building <b>Augere Labs</b>, creating tools and products with a focus on innovation and technology.
+</p>
+
+---
+
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/iamqitmeer">
